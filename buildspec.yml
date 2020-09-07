@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/Order-service.war
+    - target/Order-service.jar
   discard-paths: yes
